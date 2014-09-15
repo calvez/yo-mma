@@ -1,0 +1,10 @@
+{
+  "name": "yo-app",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "modernizr": "~2.8.2",
+    "fullscreener": "~1.0.1",
+    "headhesive.js": "~1.1.1"
+  }
+}
